@@ -17,11 +17,16 @@ Like any other project, there is plenty to be done by people of all skill levels
 If you have any questions, or want to help out, please stop by our issues boards.
 
 - For issues or questions on documentation, go to [autocannon.io][org_issues].
-- For issues or questions on Seneca itself, go to [autocannon][code_issues].
+- For issues or questions on autocannon itself, go to [autocannon][code_issues].
+
+## How to contribute
+Before you start, please read our code of [code of conduct][]. It contains very important information for
+all contributors to Autocannon.
 
 
 ## Contributors
-To see a list of all contributors, go [here][contributors].
+All contributors to the Autocannon are given a place on our list. If you would rather we removed
+your name, please open an issue. To see a list of all contributors, go [here][contributors].
 
 ## License
 [autocannon][] and [its docs][autocannon.io] are licensed under MIT and
@@ -53,5 +58,13 @@ THE SOFTWARE.
 [code_issues]: https://github.com/mcollina/autocannon/issues
 [org_issues]: https://github.com/matt-oc/autocannon.io/issues
 [other]: https://github.com/mcollina/autocannon/graphs/contributors
-[contributors]: ../contributors/
+[contributors]: https://github.com/mcollina/autocannon/graphs/contributors
 [Matteo Collina]: https://github.com/mcollina
+
+[Code of conduct]: ./code-of-conduct.html
+
+[email]: mailto:hello@nearform.com
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/3/0/
+[opencoc]: http://todogroup.org/opencodeofconduct/
+[Chakra Core]: https://github.com/Microsoft/ChakraCore

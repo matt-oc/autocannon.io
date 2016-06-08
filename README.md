@@ -1,15 +1,17 @@
 ![logo]()
-> HTTP benchmarking tool written in Node.js
+> Autocannon - HTTP benchmarking tool written in Node.js
 
-## Autocannon
-This repo contains the documentation website for [autocannon][]. This documentation is available at
-[autocannon.io][] or can be run locally by cloning this repo and following the steps below.
+## Autocannon.io
+This repo contains the documentation website for [autocannon][].
+
+- __Lead Maintainer:__ [Matteo Collina][lead]
+- __Sponsor:__ [nearForm][nearForm]
 
 ## Run Locally
 After cloning, you will need to get dependencies via npm:
 
 ```
-npm i
+npm install
 ```
 
 Next simply build and serve to port `8000`,
@@ -23,14 +25,11 @@ npm run start
 Autocannon and its docs are __open projects__ and encourage participation. If you feel you can help in
 any way, be it with examples, extra testing, tutorials, or new features please be our guest.
 
-Please make all content changes in the [/src/pages][] folder. All changes are built just before we
-redeploy the site so you only need to include changes in your PR. Upon your PR being accepted your
-changes will be deployed.
 
 Please see our [contribute][] page for more information.
 
 ## License
-Copyright Matteo Collina and other contributors, Licensed under [MIT][].
+Copyright (c) 2016, [Matteo Collina][lead] and other [contributors](https://github.com/mcollina/pino/graphs/contributors), Licensed under [MIT][].
 
 [MIT]: ./LICENSE
 [/src/pages]: ./src/pages
@@ -38,3 +37,5 @@ Copyright Matteo Collina and other contributors, Licensed under [MIT][].
 [autocannon]: https://www.npmjs.com/package/autocannon
 [autocannon.io]: http://autocannon.io
 [Metalsmith]: http://metalsmith.io
+[lead]: https://github.com/mcollina
+[nearForm]: http://www.nearform.com/
