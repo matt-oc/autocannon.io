@@ -1,7 +1,7 @@
 {
   "name": "autocannon.io",
   "version": "0.0.1",
-  "description": "The website for fug",
+  "description": "The website for autocannon",
   "main": "build.js",
   "license": "MIT",
   "private": "true",
