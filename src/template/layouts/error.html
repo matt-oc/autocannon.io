@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{> head}}
+  </head>
+  <body class="error">
+    {{> menu}}
+
+    <main class="container-fluid" role="main">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-md-10 col-lg-10">
+          {{{contents}}}
+        </div>
+      </div>
+      <div class="row center-xs">
+        <div class="col-xs-12 col-md-10 col-lg-10">
+          <p>
+            Issues? From spelling errors to broken tutorials and everything in between, report
+            them <a href="https://github.com/mcollina/autocannon/issues">here.</a>
+          </p>
+        </div>
+      </div>
+    </main>
+    {{> footer}}
+
+    {{> analytics}}
+  </body>
+</html>
